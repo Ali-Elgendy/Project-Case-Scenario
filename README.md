@@ -15,6 +15,8 @@ What is the impact of an additional weighted distance to the five Boston employm
 
 
 
+
+
 Project Tasks:
 
 Task 1: Familiarize yourself with the dataset 
