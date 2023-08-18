@@ -13,10 +13,6 @@ Can we conclude that there is no relationship between Nitric oxide concentration
 What is the impact of an additional weighted distance to the five Boston employment centres on the median value of owner-occupied homes?
 
 
-
-
-
-
 Project Tasks:
 
 Task 1: Familiarize yourself with the dataset 
