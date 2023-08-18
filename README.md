@@ -9,3 +9,18 @@ Is there a difference in median values of houses of each proportion of owner-occ
 Can we conclude that there is no relationship between Nitric oxide concentrations and the proportion of non-retail business acres per town?
 
 What is the impact of an additional weighted distance to the five Boston employment centres on the median value of owner-occupied homes?
+
+
+Project Tasks:
+
+Task 1: Familiarize yourself with the dataset 
+
+Task 2: (Optional) If you do not already have an instance of Watson Studio, create an IBM Cloud Lite account and provision an instance of Waston Studio.
+
+Task 3: Load the dataset in a Jupyter Notebook using Watson Studio.
+
+Task 4: Generate basic statistics and visualizations for upper management. 
+
+Task 5: Use the appropriate tests to answer the questions provided.
+
+Task 6: Share your Jupyter Notebook.
